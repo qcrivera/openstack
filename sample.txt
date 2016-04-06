@@ -1,1 +1,3 @@
 file with sample text
+
+#entry added from Laptop
