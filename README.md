@@ -1,2 +1,3 @@
 # openstack
-file with text
+
+Ressources for learning Openstack
